@@ -54,6 +54,9 @@ The project demonstrates UART communication, GPIO interfacing, embedded programm
 | 7 | Alarm Mode |
 
 ---
+## Project Demonstration Video
+
+[Watch Project Demo on YouTube]((https://youtu.be/hGDSHmoei50?si=qCnwx_R03K_R1SXU))
 
 ## Circuit Functionality
 
@@ -67,8 +70,3 @@ The STM32 receives commands from the PC using UART serial communication at 9600 
 src/main.c
 platformio.ini
 README.md
-
-**## Project Demonstration Video**
-
-YouTube Link:
-https://youtu.be/hGDSHmoei50?si=44hZNwqEfVV5fKuk
