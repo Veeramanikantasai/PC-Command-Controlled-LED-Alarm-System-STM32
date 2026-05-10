@@ -67,7 +67,3 @@ The STM32 receives commands from the PC using UART serial communication at 9600 
 src/main.c
 platformio.ini
 README.md
-
-## Project Demonstration Video
-
-[Watch Project Demo on YouTube](https://youtu.be/your-video-link)
