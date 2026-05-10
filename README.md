@@ -16,7 +16,7 @@ The project demonstrates UART communication, GPIO interfacing, embedded programm
 - SOS emergency pattern
 - Alarm mode with buzzer
 - Real-time UART command control
-- Serial terminal interaction without board reset
+- Serial terminal interaction
 
 ---
 
