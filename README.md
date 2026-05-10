@@ -56,7 +56,9 @@ The project demonstrates UART communication, GPIO interfacing, embedded programm
 ---
 ## Project Demonstration Video
 
-[Watch Project Demo on YouTube]((https://youtu.be/hGDSHmoei50?si=qCnwx_R03K_R1SXU))
+[Watch Project Demo on YouTube] 
+
+((https://youtu.be/hGDSHmoei50?si=qCnwx_R03K_R1SXU))
 
 ## Circuit Functionality
 
